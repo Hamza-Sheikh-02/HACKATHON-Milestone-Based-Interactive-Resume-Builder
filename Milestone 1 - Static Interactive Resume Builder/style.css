@@ -34,9 +34,15 @@ label {
 button {
   text-align: center;
   display: box;
+  width: 100%;
   cursor: pointer;
+  padding: 10px;
+  border: none;
+  font-size: 19px;
+  margin-top: 10px;
+  background: wheat;
 }
 
 button:hover {
-  background-color: aqua;
+  background-color: lightblue;
 }
