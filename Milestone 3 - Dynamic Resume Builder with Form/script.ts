@@ -41,7 +41,7 @@ document
       <p>${experience}</p>
       
       <h3>Skills</h3>
-      <p>${skill}</p>`; // Updated this label
+      <p>${skill}</p>`;
 
       const resumeOutputElement = document.getElementById("resumeOutput");
       if (resumeOutputElement) {
