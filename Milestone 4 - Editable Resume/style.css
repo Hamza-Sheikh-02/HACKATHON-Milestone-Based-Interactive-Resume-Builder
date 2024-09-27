@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0px;
+  line-height: 1.6;
+  background-color: wheat;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bolder;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 0 5px 9px rgb(3, 3, 3);
+  background-color: whitesmoke;
+}
+
+fieldset {
+  border: 2px solid;
+}
+
+legend {
+  color: darkgray;
+}
+
+label {
+  display: block;
+}
+
+button {
+  text-align: center;
+  display: box;
+  width: 100%;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  font-size: 19px;
+  margin-top: 10px;
+  background: wheat;
+}
+
+button:hover {
+  background-color: lightblue;
+}
+
+#resumeOutput {
+  max-width: 475px;
+  margin: auto;
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 10px;
+}
